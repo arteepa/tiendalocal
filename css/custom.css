@@ -1,0 +1,31 @@
+body {
+  background-color: #ffcc00;
+  margin-top: 13vh;
+}
+
+#player {
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+}
+
+.logo {
+  width: 200px;
+}
+
+.logo__container {
+  text-align: center;
+}
+
+.main-text {
+  color:#4C2683;
+  text-align: center;
+  margin-top: 40px;
+  font-size: 18px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+strike {
+  
+}
